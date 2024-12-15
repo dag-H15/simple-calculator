@@ -9,7 +9,7 @@ This is a Simple Calculator Application built using HTML, CSS, and JavaScript. T
 
 ### screenshot 
  #### calculator's UI
- ![image of the UI](screenshot.png)
+ ![image of the UI](Screenshot.png)
 
  ### features
 
